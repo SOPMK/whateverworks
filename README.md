@@ -1,3 +1,3 @@
 # whateverworkse
 
-## a repository for repos
+## a premium repository for repos
